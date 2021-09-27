@@ -3,6 +3,7 @@
 from setuptools import setup
 
 setup(
+    line='jatin',
     name='ankura',
     version='0.5',
     description='Toolkit for analyzing text with anchor-based topic modeling',
